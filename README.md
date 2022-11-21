@@ -1,4 +1,4 @@
-## About ME ##
+## About Me ##
 - 👋 Hi, I’m Petra
 - 👀 I’m interested in full stack web development and UI/UX design
 - 🌱 I’m currently learning Back end web development
