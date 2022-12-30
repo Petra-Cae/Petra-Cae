@@ -1,5 +1,5 @@
 # About Me 
--  👋 Hi, I’m Petra and I am currently on a software engineeing journey 
+-  👋 Hi, I’m Petra and I am currently on a software engineering journey 
 - <!-- 👀 I’m interested in full stack web development and UI/UX design
 - 🌱 I’m currently learning Back end web development
 - 💞️ I’m looking to collaborate on interesting web development projects
